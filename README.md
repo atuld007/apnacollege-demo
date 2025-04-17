@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
- Author-Atul Dubey(apna college from mumbai)
+ Author-Atul Dubey(apna college from Mumbai)
